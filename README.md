@@ -1,22 +1,18 @@
-<h1 align="left">Hallo 👋, ich bin Bhonandh</h1>
+<h1 align="left">Hello 👋, Bhonandh</h1>
 💼AI Engineer with 3.2+ years of experience designing and deploying production-grade solutions in Generative AI, Agentic AI and Machine Learning for
 enterprise environments. Strong expertise in building LLM-powered applications, Retrieval-Augmented Generation (RAG) pipelines, and intelligent AI
-automation systems, with a solid understanding of Agentic AI architectures. Passionate about leveraging cutting-edge AI technologies to develop scalable,
-reliable solutions that drive real-world impact and operational efficiency.
+automation systems, with a solid understanding of Agentic AI architectures. 
+
+Passionate about leveraging cutting-edge AI technologies to develop scalable, reliable solutions that drive real-world impact and operational efficiency.
 🤝 Always interested in solving challenging engineering problems and building scalable software.
 <br>
 <br>
-<p align="Center"> <img src="https://komarev.com/ghpvc/?username=sunilkumarchoudari" alt="sunilkumarchoudari" /> </p>
-<br>
 <h1 align="center">Connect with me:</h3>
 
-<a href="http:// bhonandh.github.io " target="_blank"> <img align="left" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="sunilkumarchoudari"/></a>
+<a href="https://bhonandh.github.io/" target="_blank"> <img align="left" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="bhonandhkandru"/></a>
 
-<a href="https://twitter.com/sunilkumarsuneo" target="_blank"><img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="sunilkumarsuneo"/></a>
 
-<a href="https://linkedin.com/in/bhonandh19" target="_blank"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit" alt="sunilkumarchoudari"/></a>
-
-<a href="https://stackoverflow.com/users/19458013/sunil-kumar-choudari" target="_blank"><img align="left" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="sunilkumarchoudari"/></a>
+<a href="https://www.linkedin.com/in/bhonandh19/" target="_blank"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit" alt="bhonandhkandru"/></a>
 
 </div>
 <br>
@@ -30,8 +26,4 @@ reliable solutions that drive real-world impact and operational efficiency.
 <br>
 <br>
 
-<h1 align="center">📊 GitHub Stats:</h1>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sunilkumarchoudari&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
 
