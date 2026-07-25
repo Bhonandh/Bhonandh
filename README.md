@@ -18,8 +18,6 @@ reliable solutions that drive real-world impact and operational efficiency.
 
 <a href="https://linkedin.com/in/bhonandh19" target="_blank"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit" alt="sunilkumarchoudari"/></a>
 
-<a href="https://medium.com/@sunilkumarchoudari" target="_blank"><img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-
 <a href="https://stackoverflow.com/users/19458013/sunil-kumar-choudari" target="_blank"><img align="left" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="sunilkumarchoudari"/></a>
 
 </div>
