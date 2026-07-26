@@ -36,6 +36,24 @@ Beyond my professional work, I'm passionate about **learning in public**, contri
 
 ---
 
+<!-- ARCHITECTURE DIAGRAM SECTION -->
+## 📐 Production Agentic AI Architecture Blueprint
+
+<div align="center">
+
+```gcode
++-----------------------+        +--------------------------------+        +------------------------+
+|   User Prompt / API   | -----> |  Agentic Orchestration Engine  | -----> |  MCP Server Toolkits   |
+|   (Client Request)    |        |   (LangGraph / AutoGen / Crew) |        |  (APIs / Code / DBs)   |
++-----------------------+        +--------------------------------+        +------------------------+
+                                                 |                                     |
+                                                 v                                     v
+                                 +--------------------------------+        +------------------------+
+                                 | Dynamic RAG Vector Store       |        |  Cost-Aware Router     |
+                                 | (Pinecone / FAISS / Weaviate)  |        |  & Model Distillation  |
+                                 +--------------------------------+        +------------------------+
+---
+
 <!-- DASHBOARD CONTAINER: CURRENT FOCUS -->
 ## 🎛️ Active Console & Focus
 
@@ -196,7 +214,7 @@ Beyond my professional work, I'm passionate about **learning in public**, contri
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react)
 
 </div>
 
