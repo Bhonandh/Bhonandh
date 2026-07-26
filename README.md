@@ -1,242 +1,181 @@
-
 <!-- ============================================================ -->
-<!--                            HEADER                            -->
+<!--                            HERO                               -->
 <!-- ============================================================ -->
 <div align="center">
+
+<img src="https://avatars.githubusercontent.com/u/92741550?v=4" width="110" alt="Bhonandh Sai Kandru" />
 
 # Bhonandh Sai Kandru
 
-#### AI Engineer · Open Source Builder · Author · Technical Content Creator
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=FFB100&center=true&vCenter=true&width=760&height=45&lines=%24+booting+agent_bhonandh.sys;loading+modules%3A+LLM-orchestration%2C+RAG%2C+MCP-tooling...;status%3A+ONLINE+%7C+building+in+public" alt="Typing SVG" />
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=AI+Engineer+%7C+Generative+AI+%26+Agentic+AI;Building+Agentic+AI+%26+GenAI+at+Scale;Open+Source+Contributor;Building+LLM+%26+RAG+Applications;Learning+in+Public+%E2%9A%A1" alt="Typing SVG" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4C8DFF?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhonandh19/)
+[![Website](https://img.shields.io/badge/Website-22D3EE?style=flat-square&logo=safari&logoColor=black)](https://bhonandh.github.io/)
+[![Email](https://img.shields.io/badge/Email-FFB100?style=flat-square&logo=gmail&logoColor=black)](mailto:bhonandhsaikandru2310@gmail.com)
 
-</div>
-
-<!-- ============================================================ -->
-<!--                       SOCIAL + METRICS                       -->
-<!-- ============================================================ -->
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhonandh19/)
-[![Website](https://img.shields.io/badge/Website-20BEFF?style=for-the-badge&logo=website&logoColor=white)](https://bhonandh.github.io/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhonandhsaikandru2310@gmail.com)
-
-</div>
-
----
-
-<!-- ============================================================ -->
-<!--                       BRAND STATEMENT                        -->
-<!-- ============================================================ -->
-<div align="center">
-
-### 🚀 "Building production-grade AI applications with LLMs, agents, and modern ML stacks—sharing open-source projects and practical engineering insights that help developers ship faster"
-</div>
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-## 👋 Who I Am
-
-I'm **Bhonandh Sai Kandru** — an **AI Engineer** with **3+ years** of experience building and deploying **Generative AI**, **Agentic AI**, and **Machine Learning** solutions for enterprise applications.
-
-I design and develop **LLM-powered applications**, **Agentic AI workflows**, **Retrieval-Augmented Generation (RAG) pipelines**, and intelligent automation systems, with hands-on experience taking AI solutions from prototype to production. My work focuses on building scalable, reliable, and business-driven AI systems using modern frameworks and cloud-native technologies.
-
-Beyond my professional work, I'm passionate about **learning in public**, contributing to **open-source AI projects**, and sharing practical resources that help developers build, deploy, and scale AI applications faster. I enjoy exploring the latest advancements in **LLMs, AI agents, RAG, MLOps, and AI engineering**, while continuously building projects that solve real-world problems.
-
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ============================================================ -->
-<!--                  CURRENTLY BUILDING / LEARNING               -->
-<!-- ============================================================ -->
-## 🔭 Currently Building & Learning
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛠️ Building
-- 🤖 **Agentic AI workflows** for enterprise automation
-- 🔌 **MCP server architectures** for cloud-native LLM tooling
-- ☁️ **OCI GenAI** services & multi-agent RAG pipelines
-- 📦 Open-source **AI Agents** project collections (500+)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌱 Learning & Exploring
-- ⚛️ **Quantum Machine Learning**
-- 🧠 **AI Agent Orchestration** & reasoning patterns
-- 🔬 RLHF / DPO / GRPO **fine-tuning** at scale
-- 📈 Cost-aware **inference routing** & model distillation
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ============================================================ -->
-<!--                          TECH STACK                          -->
-<!-- ============================================================ -->
-## 🧰 Tech Stack
-
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="58" height="58" />
-  &nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="aws" width="58" height="58" />
-  &nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" width="58" height="58" />
-  &nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="kubernetes" width="58" height="58" />
 </div>
 
 <br/>
 
+<!-- ============================================================ -->
+<!--                       SYSTEM STATUS                          -->
+<!-- ============================================================ -->
 <table align="center">
-<tr>
-<td align="right" width="170"><b>🧠 Languages & Core</b></td>
-<td>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=py&theme=dark&animate=true" width="48" height="48" alt="python" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=r&theme=dark&animate=true" width="48" height="48" alt="r" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=bash&theme=dark&animate=true" width="48" height="48" alt="bash" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=anaconda&theme=dark&animate=true" width="48" height="48" alt="anaconda" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark&animate=true" width="48" height="48" alt="git" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=linux&theme=dark&animate=true" width="48" height="48" alt="linux" />
-</td>
-</tr>
-<tr>
-<td align="right"><b>🤖 AI / ML / DL</b></td>
-<td>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch&theme=dark&animate=true" width="48" height="48" alt="pytorch" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow&theme=dark&animate=true" width="48" height="48" alt="tensorflow" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn&theme=dark&animate=true" width="48" height="48" alt="sklearn" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=opencv&theme=dark&animate=true" width="48" height="48" alt="opencv" />
-</td>
-</tr>
-<tr>
-<td align="right"><b>☁️ Cloud · MLOps</b></td>
-<td>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=aws&theme=dark&animate=true" width="48" height="48" alt="aws" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=azure&theme=dark&animate=true" width="48" height="48" alt="azure" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=gcp&theme=dark&animate=true" width="48" height="48" alt="gcp" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker&theme=dark&animate=true" width="48" height="48" alt="docker" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=kubernetes&theme=dark&animate=true" width="48" height="48" alt="kubernetes" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi&theme=dark&animate=true" width="48" height="48" alt="fastapi" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=flask&theme=dark&animate=true" width="48" height="48" alt="flask" />
-</td>
-</tr>
-<tr>
-<td align="right"><b>🗄️ Data · Streaming</b></td>
-<td>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres&theme=dark&animate=true" width="48" height="48" alt="postgres" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb&theme=dark&animate=true" width="48" height="48" alt="mongodb" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=kafka&theme=dark&animate=true" width="48" height="48" alt="kafka" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=redis&theme=dark&animate=true" width="48" height="48" alt="redis" />
-</td>
-</tr>
+<tr><td><b>Role</b></td><td>AI Engineer — Generative AI &amp; Agentic Systems</td></tr>
+<tr><td><b>Focus</b></td><td>LLM orchestration · RAG pipelines · MCP tooling</td></tr>
+<tr><td><b>Currently</b></td><td>🟢 Building agentic workflows for enterprise automation</td></tr>
+<tr><td><b>Open to</b></td><td>Collaboration on open-source AI agent tooling</td></tr>
 </table>
 
-<div align="center">
-
-**🧬 GenAI · LLMs · Agents · Vector DBs**
-
-![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-1A1A2E?style=flat-square&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1A1A2E?style=flat-square&logo=langchain&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-1A1A2E?style=flat-square&logo=meta&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-1A1A2E?style=flat-square&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-1A1A2E?style=flat-square&logo=anthropic&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-1A1A2E?style=flat-square&logo=robotframework&logoColor=white)
-![AutoGen](https://img.shields.io/badge/AutoGen-1A1A2E?style=flat-square&logo=microsoft&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-1A1A2E?style=flat-square&logo=mlflow&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-1A1A2E?style=flat-square&logo=meta&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-1A1A2E?style=flat-square&logo=pinecone&logoColor=white)
-![Weaviate](https://img.shields.io/badge/Weaviate-1A1A2E?style=flat-square&logo=weaviate&logoColor=white)
-
-</div>
-
----
-
+<br/>
 
 <!-- ============================================================ -->
-<!--                     CONTRIBUTION SNAKE                       -->
+<!--                          ABOUT                                -->
 <!-- ============================================================ -->
-### 🐍 Watch My Contributions Get Eaten
+## `>` About
 
-<div align="center">
+I build systems that don't just answer — they act. Over the past **3+ years** that's meant taking LLM applications, agentic workflows, and RAG pipelines from a rough prototype to something that survives production traffic: designing for observability, latency, and cost as much as for capability.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhonandh/bhonandh/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhonandh/bhonandh/output/github-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/bhonandh/bhonandh/output/github-snake.svg">
-</picture>
+Outside of client work, I learn in public — writing up what I build, contributing to open-source AI tooling, and mentoring engineers who are getting started with LLMs and agents.
 
-</div>
-
-</div>
-
----
+<br/>
 
 <!-- ============================================================ -->
-<!--                     CONTENT & COMMUNITY                      -->
+<!--                  CURRENTLY BUILDING / LEARNING               -->
 <!-- ============================================================ -->
-## 🎙️ Content & Community
+## `>` Currently
 
 <table>
 <tr>
-<td width="33%" valign="top" align="center">
+<td width="50%" valign="top">
 
-### 🎤 Speaker & Mentor
-🗣️ Speaker — **AWS Community Day AI/ML 2023** <br>
-🗣️ Speaker — **Google Developer Groups 2023** <br>
-👨‍🏫 Mentored **65+** students & engineers <br>
-🧑‍🔬 Collaborator in `keras` & `tensorflow`
+**Building**
+- 🤖 Agentic AI workflows for enterprise automation
+- 🔌 MCP server architectures for LLM tooling
+- ☁️ Multi-agent RAG pipelines on OCI GenAI
+- 📦 Open-source agent framework libraries
 
 </td>
-<td width="33%" valign="top" align="center">
+<td width="50%" valign="top">
 
-### 🏅 Recognition
-⭐ **GitHub Star Club Member** <br>
-🏆 **3× Kaggle Kernel Winner** <br>
-⚛️ IBM Quantum Challenge (Advanced) <br>
-☁️ Google Cloud GenAI Certified
+**Learning**
+- 🔬 RLHF / DPO / GRPO fine-tuning at scale
+- 🧠 Agent orchestration & reasoning patterns
+- 📈 Cost-aware inference routing & distillation
+- ⚛️ Quantum machine learning
 
 </td>
 </tr>
 </table>
 
+<br/>
+
+<!-- ============================================================ -->
+<!--                       FEATURED WORK                          -->
+<!-- ============================================================ -->
+## `>` Featured Work
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**bhonandh.github.io**](https://bhonandh.github.io/) | Personal site & project log | TypeScript |
+| *→ pin your top agentic AI / RAG repo here* | | |
+| *→ pin your top MCP or tooling repo here* | | |
+
+<sub>Swap the placeholder rows for your 2–3 strongest repos — this table is the highest-leverage real estate on the whole page for anyone deciding whether to look further.</sub>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                        CAPABILITIES                          -->
+<!-- ============================================================ -->
+## `>` Capabilities
+
+```yaml
+languages:    [Python, R, Bash]
+ai_ml:        [PyTorch, TensorFlow, scikit-learn, OpenCV]
+llm_agents:   [LangChain, LlamaIndex, CrewAI, AutoGen, MCP]
+cloud_mlops:  [AWS, GCP, Azure, Docker, Kubernetes, FastAPI, MLflow]
+data:         [PostgreSQL, MongoDB, Kafka, Redis, Pinecone, FAISS, Weaviate]
+```
+
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhonandh19/)
+![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-14171A?style=flat-square&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-14171A?style=flat-square&logo=langchain&logoColor=22D3EE)
+![OpenAI](https://img.shields.io/badge/OpenAI-14171A?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-14171A?style=flat-square&logo=anthropic&logoColor=FFB100)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-14171A?style=flat-square&logo=kubernetes&logoColor=4C8DFF)
+![AWS](https://img.shields.io/badge/AWS-14171A?style=flat-square&logo=amazonaws&logoColor=FFB100)
 
 </div>
 
----
+<br/>
 
 <!-- ============================================================ -->
-<!--                            QUOTE                             -->
+<!--                      GITHUB ACTIVITY                         -->
 <!-- ============================================================ -->
+## `>` Activity
+
 <div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react)
-
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Bhonandh&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFB100&icon_color=22D3EE&text_color=8B949E" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhonandh&layout=compact&hide_border=true&bg_color=00000000&title_color=FFB100&text_color=8B949E&langs_count=8" alt="Top languages" />
 </div>
 
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=Bhonandh&hide_border=true&background=00000000&ring=FFB100&fire=FFB100&currStreakLabel=22D3EE&sideNums=8B949E&sideLabels=8B949E&dates=8B949E" alt="Streak stats" />
+</div>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhonandh/bhonandh/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhonandh/bhonandh/output/github-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/bhonandh/bhonandh/output/github-snake.svg">
+</picture>
+</div>
+
+<br/>
+
 <!-- ============================================================ -->
-<!--                           FOOTER                             -->
+<!--                     CONTENT & COMMUNITY                      -->
+<!-- ============================================================ -->
+## `>` Speaking & Recognition
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Speaker & Mentor**
+- Speaker — AWS Community Day AI/ML 2023
+- Speaker — Google Developer Groups 2023
+- Mentored 65+ students & engineers
+
+</td>
+<td width="50%" valign="top">
+
+**Recognition**
+- GitHub Star Club member
+- 3× Kaggle Kernel winner
+- IBM Quantum Challenge (Advanced)
+- Google Cloud GenAI certified
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                           FOOTER                             -->
 <!-- ============================================================ -->
 <div align="center">
 
-**_Thanks for visiting — let's build the future of AI, together._**
+```
+$ agent_bhonandh.sys --status
+> online · shipping · always learning
+```
 
-⭐️ If you find my work useful, consider [following](https://github.com/bhonandh) or starring a repo.
+**[LinkedIn](https://www.linkedin.com/in/bhonandh19/) · [Website](https://bhonandh.github.io/) · [Email](mailto:bhonandhsaikandru2310@gmail.com)**
+
+<sub>If something here is useful, a ⭐ on a repo helps more people find it.</sub>
 
 </div>
