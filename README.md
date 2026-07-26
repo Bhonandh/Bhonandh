@@ -39,9 +39,7 @@ Beyond my professional work, I'm passionate about **learning in public**, contri
 <!-- ARCHITECTURE DIAGRAM SECTION -->
 ## 📐 Production Agentic AI Architecture Blueprint
 
-<div align="center">
-
-```gcode
+```text
 +-----------------------+        +--------------------------------+        +------------------------+
 |   User Prompt / API   | -----> |  Agentic Orchestration Engine  | -----> |  MCP Server Toolkits   |
 |   (Client Request)    |        |   (LangGraph / AutoGen / Crew) |        |  (APIs / Code / DBs)   |
@@ -52,35 +50,37 @@ Beyond my professional work, I'm passionate about **learning in public**, contri
                                  | Dynamic RAG Vector Store       |        |  Cost-Aware Router     |
                                  | (Pinecone / FAISS / Weaviate)  |        |  & Model Distillation  |
                                  +--------------------------------+        +------------------------+
+```
+
 ---
 
 <!-- DASHBOARD CONTAINER: CURRENT FOCUS -->
 ## 🎛️ Active Console & Focus
 
-<div align="center">
-  <table width="100%" style="border-collapse: collapse; border: none;">
-    <tr>
-      <td width="50%" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 16px; vertical-align: top;">
-        <h3 align="left" style="color: #58a6ff; margin-top: 0;">🛠️ Active Projects & Systems</h3>
-        <p align="left">
-          🔹 <b>Agentic AI Workflows</b> — Scalable enterprise automation<br>
-          🔹 <b>MCP Servers</b> — Cloud-native LLM tooling architecture<br>
-          🔹 <b>OCI GenAI & RAG</b> — Multi-agent retrieval pipelines<br>
-          🔹 <b>Open Source AI Agents</b> — 500+ curated projects library
-        </p>
-      </td>
-      <td width="50%" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 16px; vertical-align: top;">
-        <h3 align="left" style="color: #3fb950; margin-top: 0;">🌱 R&D Exploration Pipeline</h3>
-        <p align="left">
-          🔸 <b>Quantum Machine Learning</b> — Next-gen optimization<br>
-          🔸 <b>Agent Orchestration</b> — Complex reasoning patterns<br>
-          🔸 <b>RLHF / DPO / GRPO</b> — Large-scale fine-tuning<br>
-          🔸 <b>Inference Routing</b> — Cost-aware model distillation
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+![](https://img.shields.io/badge/-ACTIVE%20PROJECTS%20%26%20SYSTEMS-58A6FF?style=for-the-badge)
+
+🔹 **Agentic AI Workflows** — Scalable enterprise automation
+🔹 **MCP Servers** — Cloud-native LLM tooling architecture
+🔹 **OCI GenAI & RAG** — Multi-agent retrieval pipelines
+🔹 **Open Source AI Agents** — 500+ curated projects library
+
+</td>
+<td width="50%" valign="top">
+
+![](https://img.shields.io/badge/-R%26D%20EXPLORATION%20PIPELINE-3FB950?style=for-the-badge)
+
+🔸 **Quantum Machine Learning** — Next-gen optimization
+🔸 **Agent Orchestration** — Complex reasoning patterns
+🔸 **RLHF / DPO / GRPO** — Large-scale fine-tuning
+🔸 **Inference Routing** — Cost-aware model distillation
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -99,47 +99,53 @@ Beyond my professional work, I'm passionate about **learning in public**, contri
 
 <br/>
 
-<div align="center">
-  <table width="100%" style="border-collapse: collapse; border: none;">
-    <tr style="border-bottom: 1px solid #21262d;">
-      <td width="25%" align="center" style="background-color: #161b22; padding: 12px; border-radius: 6px 0 0 6px;">
-        <b style="color: #58a6ff;">🧠 Languages & Core</b>
-      </td>
-      <td width="75%" style="background-color: #0d1117; padding: 12px; border-radius: 0 6px 6px 0;">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=py,r,bash,anaconda,git,linux&theme=dark" height="36" alt="core skills" />
-      </td>
-    </tr>
-    <tr style="border-bottom: 1px solid #21262d;">
-      <td width="25%" align="center" style="background-color: #161b22; padding: 12px; border-radius: 6px 0 0 6px;">
-        <b style="color: #bc8cff;">🤖 AI / ML / DL Stack</b>
-      </td>
-      <td width="75%" style="background-color: #0d1117; padding: 12px; border-radius: 0 6px 6px 0;">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" height="36" alt="ai ml skills" />
-      </td>
-    </tr>
-    <tr style="border-bottom: 1px solid #21262d;">
-      <td width="25%" align="center" style="background-color: #161b22; padding: 12px; border-radius: 6px 0 0 6px;">
-        <b style="color: #3fb950;">☁️ Cloud & MLOps</b>
-      </td>
-      <td width="75%" style="background-color: #0d1117; padding: 12px; border-radius: 0 6px 6px 0;">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure,gcp,docker,kubernetes,fastapi,flask&theme=dark" height="36" alt="cloud skills" />
-      </td>
-    </tr>
-    <tr>
-      <td width="25%" align="center" style="background-color: #161b22; padding: 12px; border-radius: 6px 0 0 6px;">
-        <b style="color: #f0883e;">🗄️ Data & Streaming</b>
-      </td>
-      <td width="75%" style="background-color: #0d1117; padding: 12px; border-radius: 0 6px 6px 0;">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mongodb,kafka,redis&theme=dark" height="36" alt="data skills" />
-      </td>
-    </tr>
-  </table>
-</div>
+<table width="100%">
+<tr>
+<td width="25%" align="center">
+
+![](https://img.shields.io/badge/-LANGUAGES%20%26%20CORE-58A6FF?style=for-the-badge)
+
+</td>
+<td width="75%">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=py,r,bash,anaconda,git,linux&theme=dark" height="36" alt="core skills" />
+</td>
+</tr>
+<tr>
+<td width="25%" align="center">
+
+![](https://img.shields.io/badge/-AI%20%2F%20ML%20%2F%20DL-8B5CF6?style=for-the-badge)
+
+</td>
+<td width="75%">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" height="36" alt="ai ml skills" />
+</td>
+</tr>
+<tr>
+<td width="25%" align="center">
+
+![](https://img.shields.io/badge/-CLOUD%20%26%20MLOPS-3FB950?style=for-the-badge)
+
+</td>
+<td width="75%">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure,gcp,docker,kubernetes,fastapi,flask&theme=dark" height="36" alt="cloud skills" />
+</td>
+</tr>
+<tr>
+<td width="25%" align="center">
+
+![](https://img.shields.io/badge/-DATA%20%26%20STREAMING-F0883E?style=for-the-badge)
+
+</td>
+<td width="75%">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mongodb,kafka,redis&theme=dark" height="36" alt="data skills" />
+</td>
+</tr>
+</table>
 
 <br/>
 
 <!-- GEN AI BADGE DASHBOARD -->
-<div align="center" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 16px;">
+<div align="center">
 
 #### 🧬 GenAI · LLMs · Multi-Agent Tooling · Vector Engines
 
@@ -168,7 +174,7 @@ Beyond my professional work, I'm passionate about **learning in public**, contri
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhonandh/bhonandh/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhonandh/bhonandh/output/github-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/bhonandh/bhonandh/output/github-snake-dark.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/bhonandh/bhonandh/output/github-snake.svg">
 </picture>
 
 </div>
@@ -178,29 +184,29 @@ Beyond my professional work, I'm passionate about **learning in public**, contri
 <!-- DASHBOARD CONTAINER: COMMUNITY & AWARDS -->
 ## 🏆 Metrics, Leadership & Honors
 
-<div align="center">
-  <table width="100%" style="border-collapse: collapse; border: none;">
-    <tr>
-      <td width="50%" align="center" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 20px; vertical-align: top;">
-        <h3 style="color: #d2a8ff; margin-top: 0;">🎙️ Speaker & Leadership</h3>
-        <p align="left">
-          🗣️ <b>Speaker</b> — AWS Community Day AI/ML 2023<br>
-          🗣️ <b>Speaker</b> — Google Developer Groups 2023<br>
-          🧑‍🔬 <b>Collaborator</b> in <code>keras</code> & <code>tensorflow</code>
-        </p>
-      </td>
-      <td width="50%" align="center" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 20px; vertical-align: top;">
-        <h3 style="color: #e3b341; margin-top: 0;">🏅 Badges & Honors</h3>
-        <p align="left">
-          ⭐ <b>GitHub Star Club Member</b><br>
-          🏆 <b>3× Kaggle Kernel Winner</b><br>
-          ⚛️ <b>IBM Quantum Challenge</b> (Advanced)<br>
-          ☁️ <b>Google Cloud GenAI Certified</b>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+<table width="100%">
+<tr>
+<td width="50%" align="center" valign="top">
+
+![](https://img.shields.io/badge/-SPEAKER%20%26%20LEADERSHIP-8B5CF6?style=for-the-badge)
+
+🗣️ **Speaker** — AWS Community Day AI/ML 2023
+🗣️ **Speaker** — Google Developer Groups 2023
+🧑‍🔬 **Collaborator** in `keras` & `tensorflow`
+
+</td>
+<td width="50%" align="center" valign="top">
+
+![](https://img.shields.io/badge/-BADGES%20%26%20HONORS-CA8A04?style=for-the-badge)
+
+⭐ **GitHub Star Club Member**
+🏆 **3× Kaggle Kernel Winner**
+⚛️ **IBM Quantum Challenge** (Advanced)
+☁️ **Google Cloud GenAI Certified**
+
+</td>
+</tr>
+</table>
 
 <br/>
 
