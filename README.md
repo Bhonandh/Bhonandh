@@ -28,7 +28,7 @@
 
 ## 👋 Who I Am
 
-I'm **Bhonandh Sai Kandru** — an **AI Engineer** with **5+ years** of experience building and deploying **Generative AI**, **Agentic AI**, and **Machine Learning** solutions for enterprise applications.
+I'm **Bhonandh Sai Kandru** — an **AI Engineer** with **9+ years** of experience building and deploying **Generative AI**, **Agentic AI**, and **Machine Learning** solutions for enterprise applications.
 
 I design and develop **LLM-powered applications**, **Agentic AI workflows**, **Retrieval-Augmented Generation (RAG) pipelines**, and intelligent automation systems, with hands-on experience taking AI solutions from prototype to production. My work focuses on building scalable, reliable, and business-driven AI systems using modern frameworks and cloud-native technologies.
 
