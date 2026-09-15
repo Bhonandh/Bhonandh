@@ -2,7 +2,7 @@
 
 # Bhonandh Sai Kandru
 
-#### AI Engineer · Open Source Builder · Author · Technical Content Creator
+#### Data Scientist · Open Source Builder · Author · Technical Content Creator
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=AI+Engineer+%7C+Generative+AI+%26+Agentic+AI;Building+Agentic+AI+%26+GenAI+at+Scale;Open+Source+Contributor;Building+LLM+%26+RAG+Applications;Learning+in+Public+%E2%9A%A1" alt="Typing SVG" />
@@ -28,7 +28,7 @@
 
 ## 👋 Who I Am
 
-I'm **Bhonandh Sai Kandru** — an **AI Engineer** with **9+ years** of experience building and deploying **Generative AI**, **Agentic AI**, and **Machine Learning** solutions for enterprise applications.
+I'm **Bhonandh Sai Kandru** — an **Data Scientist & AI Engineer** with **9+ years** of experience building and deploying **Generative AI**, **Agentic AI**, and **Machine Learning** solutions for enterprise applications.
 
 I design and develop **LLM-powered applications**, **Agentic AI workflows**, **Retrieval-Augmented Generation (RAG) pipelines**, and intelligent automation systems, with hands-on experience taking AI solutions from prototype to production. My work focuses on building scalable, reliable, and business-driven AI systems using modern frameworks and cloud-native technologies.
 
